@@ -1,0 +1,16 @@
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\Laboratorio.Model.dll.config
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\Laboratorio.Model.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\Laboratorio.Model.pdb
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.EF.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.EntityFramework.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\rg.GenericRepository.Core.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.EntityFramework.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.csprojResolveAssemblyReference.cache
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.pdb
