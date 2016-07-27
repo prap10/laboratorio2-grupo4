@@ -1,0 +1,14 @@
+cree dos propiedades en la clase de Product
+	* WeightInGrams
+		- si el SizeUnitMeasureCode es "G"
+			- devuelve el size
+		- si el SizeUnitMeasureCode es "LB"
+			- devuelve el size / 453.592
+	* WeightInPounds
+		- si el SizeUnitMeasureCode es "LB"
+			- devuelve el size
+		- si el SizeUnitMeasureCode es "G"
+			- devuelve el size * 453.592
+			
+FALTA!!!!
+	considerar NULL!!!
