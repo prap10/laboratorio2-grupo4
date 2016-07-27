@@ -1,0 +1,14 @@
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\Ejemplo.Model.dll.config
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\Ejemplo.Model.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\Ejemplo.Model.pdb
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\EntityFramework.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\GenericRepository.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\GenericRepository.EntityFramework.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\EntityFramework.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\GenericRepository.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\bin\Debug\GenericRepository.EntityFramework.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\obj\Debug\Ejemplo.Model.csprojResolveAssemblyReference.cache
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\obj\Debug\Ejemplo.Model.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\AdventureWorks.Demo\Ejemplo.Model\obj\Debug\Ejemplo.Model.pdb

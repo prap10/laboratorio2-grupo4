@@ -12,6 +12,7 @@ namespace Ejemplo.BL.Repositorios
     {
         // contexto estático
         private static AdventureWorks2014Entities _myContext = new AdventureWorks2014Entities();
+        
         // repositorio privado
         private IEntityRepository<Product> _myProductRepository = new EntityRepository<Product>(_myContext);
 

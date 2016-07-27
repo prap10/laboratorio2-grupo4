@@ -53,6 +53,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
@@ -78,8 +79,37 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>BaseDeDatos.edmx</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
+    <Compile Include="BaseDeDatosEmployees.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaseDeDatosEmployees.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BaseDeDatosEmployees.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaseDeDatosEmployees.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BaseDeDatosEmployees.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaseDeDatosEmployees.edmx</DependentUpon>
+    </Compile>
     <Compile Include="Contexto\AdventureWorks2014Entities.cs" />
+    <Compile Include="Department.cs">
+      <DependentUpon>BaseDeDatosEmployees.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <DependentUpon>BaseDeDatosEmployees.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeDepartmentHistory.cs">
+      <DependentUpon>BaseDeDatosEmployees.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Person.cs">
+      <DependentUpon>BaseDeDatosEmployees.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PersonPhone.cs">
+      <DependentUpon>BaseDeDatosEmployees.tt</DependentUpon>
+    </Compile>
     <Compile Include="Product.cs">
       <DependentUpon>BaseDeDatos.tt</DependentUpon>
     </Compile>
@@ -107,6 +137,13 @@
     <None Include="BaseDeDatos.edmx.diagram">
       <DependentUpon>BaseDeDatos.edmx</DependentUpon>
     </None>
+    <EntityDeploy Include="BaseDeDatosEmployees.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>BaseDeDatosEmployees.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="BaseDeDatosEmployees.edmx.diagram">
+      <DependentUpon>BaseDeDatosEmployees.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -119,6 +156,16 @@
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>BaseDeDatos.edmx</DependentUpon>
       <LastGenOutput>BaseDeDatos.cs</LastGenOutput>
+    </Content>
+    <Content Include="BaseDeDatosEmployees.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BaseDeDatosEmployees.edmx</DependentUpon>
+      <LastGenOutput>BaseDeDatosEmployees.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="BaseDeDatosEmployees.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BaseDeDatosEmployees.edmx</DependentUpon>
+      <LastGenOutput>BaseDeDatosEmployees.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup>
