@@ -9,11 +9,12 @@
 
 namespace Laboratorio.Model
 {
+    using GenericRepository.EntityFramework;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-    
-    public partial class AdventureWorks2014Entities : DbContext
+
+    public partial class AdventureWorks2014Entities : EntitiesContext
     {
         public AdventureWorks2014Entities()
             : base("name=AdventureWorks2014Entities")

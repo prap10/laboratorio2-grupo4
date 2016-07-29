@@ -1,0 +1,17 @@
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Laboratorio.Testing.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Laboratorio.Testing.pdb
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Laboratorio.Model.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\EntityFramework.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\GenericRepository.EntityFramework.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\GenericRepository.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Laboratorio.Model.pdb
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\EntityFramework.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\GenericRepository.EntityFramework.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\GenericRepository.xml
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\obj\Debug\Laboratorio.Testing.csprojResolveAssemblyReference.cache
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\obj\Debug\Laboratorio.Testing.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\obj\Debug\Laboratorio.Testing.pdb
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Laboratorio.BusinessLogic.dll
+C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\bin\Debug\Laboratorio.BusinessLogic.pdb

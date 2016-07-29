@@ -16,6 +16,16 @@ namespace Laboratorio.Model
         [NotMapped]
         public int Id { get; set; }
 
+        public String FullName {
+            get {
+                return this.Title
+                        + this.FirstName
+                        + this.LastName
+                        + this.Suffix;
+
+            }
+        }
+
     }
 
     public class PersonMetaData

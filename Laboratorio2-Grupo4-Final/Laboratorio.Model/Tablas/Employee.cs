@@ -154,19 +154,26 @@ namespace Laboratorio.Model
 
         }//MetodoAdditionalAntitiquityMonths
 
+        /*
         public string ActualDepartmentName
         {
             get
             {
-                string resultado = null;
+                var e = new Employee();
+                var edh = new EmployeeDepartmentHistory();
+                var d = new Department();
 
-                return resultado;
+                var groupJoinQuery =
+                        from Employee in e
+                        join EmployeeDepartmentHistory in edh on e.BusinessEntityID equals edh.BusinessEntityID
+                        join Department in d on d.DepartmentID equals edh.DepartmentID into result
+                        select result;
 
             }//Get
-        }//MetodoActualDepartmentName
-
+        }//MetodoActualDepartmentName*/
 
     }
+
     public class EmployeeMetaData
     {
 
