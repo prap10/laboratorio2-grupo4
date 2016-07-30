@@ -14,3 +14,19 @@ C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Labo
 C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.csprojResolveAssemblyReference.cache
 C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.dll
 C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.pdb
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.csprojResolveAssemblyReference.cache
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\Laboratorio.Model.dll.config
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\Laboratorio.Model.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\Laboratorio.Model.pdb
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.EF.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.EntityFramework.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\rg.GenericRepository.Core.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.xml
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.xml
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\bin\Debug\GenericRepository.EntityFramework.xml
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.dll
+C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.pdb

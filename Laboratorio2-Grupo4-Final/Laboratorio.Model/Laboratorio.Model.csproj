@@ -101,6 +101,8 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tablas\Employee.cs" />
+    <Compile Include="Tablas\EmployeeDepartment.cs" />
+    <Compile Include="Tablas\EmployeeDepartmentHistory.cs" />
     <Compile Include="Tablas\Person.cs" />
     <Compile Include="Tablas\PersonPhone.cs" />
   </ItemGroup>

@@ -16,7 +16,7 @@ namespace Laboratorio.Testing
             testPerson.FirstName = "Pablo";
             testPerson.LastName = "Arroyo";
 
-            Console.WriteLine( testPerson.FullName );
+            Console.WriteLine(testPerson.FullName);
         }
 
         [TestMethod]
@@ -26,11 +26,31 @@ namespace Laboratorio.Testing
 
             int expectedResultSize = 57;
 
-            var resultList = repositorio.GetPersonByCharacterSet( "mat" ).ToList();
+            var resultList = repositorio.GetPersonByCharacterSet("mat").ToList();
             var resultSize = resultList.Count();
 
             Assert.AreEqual(expectedResultSize, resultSize);
         }
 
+
+
+        [TestMethod]
+        public void TestFullDepartmetnName()
+        {
+            var Tabla1 = new Laboratorio.Model.Department();
+            var Tabla2 = new Laboratorio.Model.EmployeeDepartmentHistory();
+            var Tabla3 = new Laboratorio.Model.Employee();
+
+            int expectedResultSize = 57;
+
+            var resultList = Tabla3.ActualDepartmentName.ToList();
+            var resultSize = resultList.Count();
+
+            Assert.AreEqual(expectedResultSize, resultSize);
+
+        }
     }
-}
+
+
+        
+    }

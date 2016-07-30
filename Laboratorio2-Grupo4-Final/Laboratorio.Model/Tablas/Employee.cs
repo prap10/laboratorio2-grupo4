@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using GenericRepository;
 
 
@@ -171,7 +168,25 @@ namespace Laboratorio.Model
 
             }//Get
         }//MetodoActualDepartmentName*/
+        
+        public string ActualDepartmentName
+            {
+            get
+    {
+                EmployeeDepartmentHistory DN = new EmployeeDepartmentHistory();
+                Department ED = new Department();
+                Employee e = new Employee();
 
+
+                int IDDepa = DN.DepartmentoID;
+                String NombreDepa = ED.DepartmentName;
+                int BID = e.BusinessEntityID;
+
+                string name = (IDDepa.Equals( BID)).ToString();
+
+                return name;
+    }//Get
+}//MetodoActualDepartmentName
     }
 
     public class EmployeeMetaData
