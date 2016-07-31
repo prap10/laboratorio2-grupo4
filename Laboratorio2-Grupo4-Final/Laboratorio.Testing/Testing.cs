@@ -20,6 +20,17 @@ namespace Laboratorio.Testing
         }
 
         [TestMethod]
+        public void TestAgeInYears()
+        {
+            Employee testEmployee = new Employee();
+            testEmployee.BirthDate = Convert.ToDateTime("1996-06-22");
+       
+
+            Console.WriteLine(testEmployee.AgeInYears);
+        }
+
+
+        [TestMethod]
         public void TestingFetchingAllPersonWithMatInTheirFullNmae()
         {
             var repositorio = new Laboratorio.BusinessLogic.Repositories.PersonRepository();
