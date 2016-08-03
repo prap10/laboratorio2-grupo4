@@ -7,11 +7,12 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+
 namespace Laboratorio.Model
 {
-    using System;
+    /*using System;
     using System.Data.Entity;
-    using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Infrastructure;*/
     
     public partial class AdventureWorks2014Entities : DbContext
     {

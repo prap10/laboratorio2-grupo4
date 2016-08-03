@@ -1,5 +1,4 @@
-﻿using GenericRepository.EntityFramework;
-using System;
+﻿//using GenericRepository.EntityFramework;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -8,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Laboratorio.Model
 {
+
     public partial class MyAdventureWorks2014Entities : EntitiesContext
     {
         public virtual IDbSet<Employee> Employee { get; set; }

@@ -31,3 +31,4 @@ C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Fina
 C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.dll
 C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.pdb
 C:\Users\marianella\Desktop\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.csprojResolveAssemblyReference.cache
+C:\Users\Marlon\Source\Repos\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Model\obj\Debug\Laboratorio.Model.csprojResolveAssemblyReference.cache
