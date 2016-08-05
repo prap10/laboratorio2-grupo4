@@ -1,10 +1,11 @@
-﻿using GenericRepository.EntityFramework;
-using Laboratorio.Model;
+﻿using Laboratorio.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GenericRepository.EntityFramework;
+
 
 namespace Laboratorio.BusinessLogic.Repositories
 {
@@ -17,6 +18,11 @@ namespace Laboratorio.BusinessLogic.Repositories
         public IQueryable<Person> GetPersonByCharacterSet( String characterSet )
         {
             return _myPersonRepository.FindBy(x => x.FullName.Contains( characterSet ));
+        }
+
+        public IQueryable<Person> GetPhone(int phoneSet)
+        {
+            return _myPersonRepository.FindBy(x => x.PersonPhone.ToString().Contains(phoneSet.ToString()));
         }
     }
 }

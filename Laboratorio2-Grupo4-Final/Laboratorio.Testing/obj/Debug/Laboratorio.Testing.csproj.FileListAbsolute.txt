@@ -18,3 +18,4 @@ C:\Pablo\Ulatina\Topicos Electos\Laboratorio2 - Grupo 4\laboratorio2-grupo4\Labo
 C:\Users\Andres Marin\Source\Repos\laboratorio2-grupo45\Laboratorio2-Grupo4-Final\Laboratorio.Testing\obj\Debug\Laboratorio.Testing.csprojResolveAssemblyReference.cache
 C:\Users\marianella\Desktop\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\obj\Debug\Laboratorio.Testing.csprojResolveAssemblyReference.cache
 C:\Users\Marlon\Source\Repos\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\obj\Debug\Laboratorio.Testing.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Source\Repos\laboratorio2-grupo4\Laboratorio2-Grupo4-Final\Laboratorio.Testing\obj\Debug\Laboratorio.Testing.csprojResolveAssemblyReference.cache

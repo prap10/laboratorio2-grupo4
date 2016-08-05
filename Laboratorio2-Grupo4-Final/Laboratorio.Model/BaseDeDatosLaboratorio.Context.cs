@@ -8,14 +8,16 @@
 //------------------------------------------------------------------------------
 
 
+using System.Data.Entity;
+using System.Data.Entity.Infrastructure;
 namespace Laboratorio.Model
 {
     /*using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;*/
     
-    public partial class AdventureWorks2014Entities : DbContext
-    {
+    public partial class AdventureWorks2014Entities : DbContext 
+    {   
         public AdventureWorks2014Entities()
             : base("name=AdventureWorks2014Entities")
         {

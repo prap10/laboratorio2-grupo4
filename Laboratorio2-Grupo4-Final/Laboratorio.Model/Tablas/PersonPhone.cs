@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using GenericRepository;
 
-namespace Laboratorio.Model.Tablas
+namespace Laboratorio.Model
 {
     [MetadataType(typeof(PersonPhoneMetaData))]
     public partial class PersonPhone : IEntity
@@ -15,6 +15,13 @@ namespace Laboratorio.Model.Tablas
         [NotMapped]
         public int Id { get; set; }
 
+    }
+
+    public enum PhoneNumberType
+    {     
+        Cell = 1,  
+        Home = 2,
+        Work = 3,   
     }
 
     public class PersonPhoneMetaData

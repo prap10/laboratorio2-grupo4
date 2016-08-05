@@ -21,10 +21,12 @@ namespace Laboratorio.Model
                 return this.Title
                         + this.FirstName
                         + this.LastName
-                        + this.Suffix;
-
+                        + this.Suffix
+                        + this.PersonPhone;
             }
         }
+
+
 
     }
 

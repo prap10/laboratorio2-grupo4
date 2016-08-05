@@ -44,6 +44,20 @@ namespace Laboratorio.Testing
         }
 
 
+        [TestMethod]
+        public void TestingFetchingAllPersonWithMatInTheirPhoneNumber()
+        {
+            var repositorio = new Laboratorio.BusinessLogic.Repositories.PersonRepository();
+
+            int expectedResultSize = 736;
+
+            var resultList = repositorio.GetPhone(3).ToList();
+            var resultSize = resultList.Count();
+
+            Assert.AreEqual(expectedResultSize, resultSize);
+        }
+
+
 
         [TestMethod]
         public void TestFullDepartmetnName()
